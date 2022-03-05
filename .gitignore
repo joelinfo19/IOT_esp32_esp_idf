@@ -1,0 +1,6 @@
+esp_idf_components/
+build/
+sdkconfig
+sdkconfig.old
+cmake-build-*/
+.idea
